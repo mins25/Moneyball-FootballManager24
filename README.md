@@ -11,4 +11,7 @@ Analyser des données de joueurs (de ma partie de FM24 en cours) pour détecter 
 Faire la recherche de profils intéressants selon les besoins du club et contraintes budgétaires.
 Éviter le scouting subjectif et se baser sur des données chiffrées (âge, salaire, note moyenne, xG, etc...).
 
+et le tout dans un premier temps sur EXCEL
+Peut etre ensuite essayer d'extraire des donnes en NoSQL
+
 
