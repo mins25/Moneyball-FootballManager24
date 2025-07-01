@@ -2,7 +2,8 @@
 
 Ce projet met en œuvre une approche Moneyball pour le jeu Football Manager 2024. L’objectif est d’utiliser des données objectives pour recruter efficacement, maximiser la performance et minimiser les coûts, en s’inspirant de la stratégie de recrutement popularisée dans le baseball (voir le film "Le stratège" avec Brad Pitt) et adaptée ici au football.
 
-<img src="https://github.com/user-attachments/assets/47ecaded-7ab7-4b28-a8f0-cca13ce2b532" alt="Moneyball FM" width="400"/> </p> <img src="https://github.com/user-attachments/assets/363f834c-a87a-40a4-9a7c-161e6da09299" alt="Exemple Analyse" width="400"/> </p>
+<img src="https://github.com/user-attachments/assets/47ecaded-7ab7-4b28-a8f0-cca13ce2b532" alt="Moneyball FM" width="400"/>
+<img src="https://github.com/user-attachments/assets/363f834c-a87a-40a4-9a7c-161e6da09299" alt="Exemple Analyse" width="400"/> </p>
 
 # ⚽ Objectifs du projet
 
