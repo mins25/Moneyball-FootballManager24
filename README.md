@@ -36,7 +36,7 @@ Popularisée dans le baseball (Oakland A’s), cette approche est de plus en plu
 
 ## 🎮 Contexte de la partie en cours
 
-Je joue actuellement avec **le club espagnol Cultural Leonesa**, fraîchement promu en **3e division espagnole** après deux promotions successives.
+Je joue actuellement avec **le club espagnol Cultural Leonesa**, fraîchement promu en **1e division espagnole** après deux promotions successives.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6ec01243-2307-423d-9e4b-0b73a0148e16" alt="Cultural Leonesa" width="600"/>
