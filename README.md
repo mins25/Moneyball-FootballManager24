@@ -136,6 +136,8 @@ Ce filtre affine la recherche en ne gardant que les attaquants qui **cadre régu
 - **Note moyenne** : 7.11  
 - **Prix estimé** : entre **14 000 €** et **130 000 €**
 
-💡 Une **véritable affaire** selon l’approche Moneyball : joueur jeune, productif, efficace, et **extrêmement abordable**.
-🔄 La suite très bientôt, avec les premières analyses de profils !
+💡 Une **véritable affaire** selon l’approche Moneyball : joueur jeune, productif, efficace, et surtout pas cher.
+
+
+🔄 La suite très bientôt!
 
